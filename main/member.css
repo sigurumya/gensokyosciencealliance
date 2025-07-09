@@ -1,0 +1,50 @@
+.logo{
+    width: 250px;
+    height: 250px;
+    float: left;
+    box-shadow: 10px 10px 0 #ff9600;
+}
+.name{
+    font-size: 40px;
+    padding: 0px 0px 0px 285px;
+}
+.url{
+    clear: right;
+    display: block;
+    padding: 0px 0px 0px 290px;
+    color: #fff;
+}
+.url a{
+    clear: right;
+    font-size: 30px;
+    padding: 0px 15px;
+}
+.url h2{
+    clear: right;
+    font-size: 27.5px;
+    padding: 0px 15px;
+}
+.logo-container01{
+    padding: 0px 10px 10px 10px;
+}
+.logo-container02{
+    padding: 45px 10px 10px 10px;
+}
+.youtube-logo{
+    width: 75px;
+    height: 75px;
+    float: left;
+    padding: 10px 10px;
+}
+.x-logo{
+    width: 75px;
+    height: 75px;
+    float: left;
+    padding: 10px 10px;
+}
+.saite-logo{
+    width: 75px;
+    height: 75px;
+    float: left;
+    padding: 10px 10px;
+}

@@ -1,0 +1,44 @@
+.logo{
+    width: 250px;
+    height: 250px;
+    float: left;
+    box-shadow: 10px 10px 0 #ff9600;
+}
+.name{
+    font-size: 40px;
+    padding: 0px 0px 0px 285px;
+}
+.url{
+    padding: 0px 0px 0px 290px;
+}
+.youtube-logo{
+    width: 75px;
+    height: 75px;
+    float: left;
+}
+.gsa{
+    padding: 25px 0px 0px 285px;
+    font-size: 30px;
+}
+.main a{
+    color: #ffffff;
+}
+.main em{
+    color: #ffee00;
+}
+.pcspecs{
+    padding-top: 90px;
+    font-size: 25px;
+}
+.example{
+    line-height: 1.25;
+}
+.example-nomal{
+    padding: 30px 0px 0px 0px;
+}
+.example-ex{
+    padding: 0px 0px 15px 0px;
+}
+.example-under{
+    padding: 0px 0px 35px 0px;
+}

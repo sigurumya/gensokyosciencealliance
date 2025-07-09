@@ -1,0 +1,16 @@
+.main{
+  font-size: 25px;
+}
+.main h2{
+  padding-left: 0.25em;
+}
+.main h3{
+  padding-left: 1.25em;
+}
+.main p{
+  padding-left: 1.25em;
+}
+.main em{
+  color: #ffee00;
+  font-weight: bold;
+}

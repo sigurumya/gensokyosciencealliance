@@ -1,0 +1,59 @@
+.logo{
+    width: 250px;
+    height: 250px;
+    float: left;
+    box-shadow: 10px 10px 0 #ff9600;
+}
+.name{
+    font-size: 40px;
+    padding: 0px 0px 0px 285px;
+}
+.url h2 a {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 30px;
+   width: 260px;
+   color: #000000;
+   font-size: 18px;
+   font-weight: 700;
+   text-decoration: none;
+   background-color: #ff9500;
+   border-radius: 40px;
+}
+.url h2 a::after {
+   content: '';
+   width: 10px;
+   height: 10px;
+   border-top: 2px solid #683d00;
+   border-right: 2px solid #683d00;
+   transform: rotate(45deg);
+}
+.url{
+    clear: right;
+    display: block;
+    padding: 0px 0px 0px 290px;
+    color: #fff;
+}
+.url a{
+    clear: right;
+    font-size: 27.5px;
+    color: #fff;
+}
+.url h2{
+    clear: right;
+    font-size: 27.5px;
+    padding: 0px 15px;
+}
+.logo-container01{
+    padding: 0px 10px 10px 10px;
+}
+.logo-container02{
+    padding: 110px 10px 10px 10px;
+}
+.youtube-logo{
+    width: 75px;
+    height: 75px;
+    float: left;
+    padding: 0px 20px;
+}
